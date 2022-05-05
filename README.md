@@ -21,8 +21,4 @@
  
 </div>
 
-<a href="https://github.com/rusthyy">
-  <img height="180em" src="" />
-</a>
-
   ##
