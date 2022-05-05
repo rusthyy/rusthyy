@@ -1,4 +1,4 @@
-### predestined to win.
+### i took what I feared most.
 
 <!-- SOCIALS -->
 ### Connect with me:
@@ -17,10 +17,10 @@
 </div>
 <div style="display: inline_block"><br>
 
-  <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/962328374137729054/970902176597704704/R_3.png"/>
+  <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/962328374137729054/971606773469421628/46649.png"/>
 </div>
 
 
   ##
   
-  I'm never alone, god is always with me.
+  better alone, than poorly accompanied.
