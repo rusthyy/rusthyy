@@ -22,7 +22,7 @@
 </div>
 
 <a href="https://github.com/rusthyy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rushscriptz&theme=midnight-purple&show_icons=true" />
+  <img height="180em" src="" />
 </a>
 
   ##
