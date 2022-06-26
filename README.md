@@ -1,7 +1,7 @@
 # rusthy#0001
 
 <p align="center">
-  <a href="https://github.com/WeLoveYouDuh">
+  <a href="https://github.com/rusthyy">
     <img src="https://discord.c99.nl/widget/theme-1/781308123516370954.png"/>
      </a>
 </p>
