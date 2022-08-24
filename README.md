@@ -1,4 +1,4 @@
-# rusthy#0001
+# rusthy#1000
 
 <p align="center">
   <a href="https://github.com/rusthyy">
